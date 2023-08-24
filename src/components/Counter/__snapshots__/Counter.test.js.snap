@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Page Test Snapshot 1 1`] = `
+<div>
+  <div
+    className="clicks-0"
+  >
+    0
+     clicks
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    Increment
+  </button>
+  <h1>
+    Article Details
+  </h1>
+  <Table />
+</div>
+`;
+
+exports[`Mount vs shallow Snapshot 1 1`] = `
+<div>
+  <div
+    className="clicks-0"
+  >
+    0
+     clicks
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    Increment
+  </button>
+  <h1>
+    Article Details
+  </h1>
+  <Table />
+</div>
+`;
